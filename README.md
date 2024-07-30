@@ -15,7 +15,7 @@ Then create a file with .py extension ......as you can see hee
 File named as "Compute_image.py" is having the for collecting data in the form of images. 
 In the file "Compute_image.py" line no. 13      
            folder = "C:/Users/hp/Desktop/Sign Language Detection/Data/**Thank you**"   
-           you have to just change the last file name where ther is **thank you** there you will have to add your own file or sign name that you want. 
+           you have to just change the last file name where ther is **thank you** there you will have to add your own file or sign name that you want.  
           This thank you will collect data for thank you sign and if you will change thank you to hello it will collect images for hello .
 
 **To collect images you have to press **d** , by which images will be saved in your data folder** 
