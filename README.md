@@ -26,5 +26,5 @@ After that you have the same code as in the compute_images.py But there are some
     if it give error then install tensorflow with the help of the terminal
     And then again run file **test.py**
 ***Make sure your camera is not disabled.**
-it will take 2-3 mins in running and collecting data after running main file. 
+it will take 1-2 mins in running and collecting data after running main file. 
  And then a new file will open and then whem you show signs it will predict that which sign it is.  
